@@ -25,5 +25,5 @@ O objetivo é permitir que o usuário adicione e remova tarefas de forma prátic
 
 ## 🧠 Autor
 
-**Matheus Augusto Cunha Rocha**  
-GitHub: [github.com/matheuscr19-coder](https://github.com/matheuscr19-coder)
+Matheus Augusto Cunha Rocha – 2025  
+[https://github.com/matheuscr19-coder](https://github.com/matheuscr19-coder)
