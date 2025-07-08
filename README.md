@@ -20,7 +20,7 @@ O objetivo é permitir que o usuário adicione e remova tarefas de forma prátic
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/to-do-list.git
+   git clone (https://matheuscr19-coder.github.io/to-do-list-data-hora/)
    ```
 2. Abra o arquivo `index.html` no navegador.
 
