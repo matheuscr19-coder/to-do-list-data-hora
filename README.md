@@ -2,7 +2,7 @@
 
 Aplicação simples de lista de tarefas feita com HTML, CSS e JavaScript. Permite adicionar, marcar como concluído e remover tarefas.
 
-🔗 Acesse o projeto aqui: [To Do List](https://matheuscr19-coder.github.io/to-do-list/)
+🔗 Acesse o projeto aqui: [To Do List](https://matheuscr19-coder.github.io/to-do-list-data-hora/)
 
 ## 📋 Funcionalidades
 - Adicionar novas tarefas.
