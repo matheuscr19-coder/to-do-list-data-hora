@@ -1,29 +1,25 @@
-# 📝 To-do List
+# ✅ To Do List - Lista de Tarefas
 
-Este é um projeto simples de **To-do List** desenvolvido com **HTML**, **CSS** e **JavaScript puro**.
+Aplicação simples de lista de tarefas feita com HTML, CSS e JavaScript. Permite adicionar, marcar como concluído e remover tarefas.
 
-O objetivo é permitir que o usuário adicione e remova tarefas de forma prática e rápida, funcionando como uma lista de afazeres online.
+🔗 Acesse o projeto aqui: [To Do List](https://matheuscr19-coder.github.io/to-do-list/)
 
-## ✅ Funcionalidades
+## 📋 Funcionalidades
+- Adicionar novas tarefas.
+- Marcar tarefas como concluídas.
+- Remover tarefas da lista.
+- Armazenamento local no navegador (LocalStorage).
 
-- Adicionar tarefas com horário de criação
-- Remover tarefas individualmente
-- Interface responsiva e leve
-
-## 💻 Tecnologias utilizadas
-
+## 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 🚀 Como executar o projeto
+## 🚀 Como usar
+1. Clone ou faça download deste repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Organize suas tarefas!
 
-1. Baixe ou clone este repositório:
-   ```bash
-   git clone https://matheuscr19-coder.github.io/to-do-list-data-hora
-   ```
-
-## 🧠 Autor
-
+## 👤 Autor
 Matheus Augusto Cunha Rocha – 2025  
-[https://github.com/matheuscr19-coder](https://github.com/matheuscr19-coder)
+[Perfil no GitHub](https://github.com/matheuscr19-coder)
